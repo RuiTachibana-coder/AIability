@@ -69,7 +69,7 @@ bananas
 <body>
     <div class="container">
         <h1>У жителей России бананы 18 см</h1>
-        <a href="photo_2026-01-19_17-29-29%20%281%29.pdf" target="_blank" class="pdf-button">
+        <a href="File.pdf" target="_blank">
             Открыть PDF
         </a>
     </div>
